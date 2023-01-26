@@ -1,14 +1,18 @@
 .mesi{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 .cr5{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+    display: flex;
 }
 .messi{
 
 }
 .cr7{
-    
+ text-align: end;
+}
+.text{
+    text-align: center;
 }
